@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alter", "Alter\Alter.csproj", "{CA230011-7670-4516-A12D-DD701FA6CA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA230011-7670-4516-A12D-DD701FA6CA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA230011-7670-4516-A12D-DD701FA6CA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA230011-7670-4516-A12D-DD701FA6CA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA230011-7670-4516-A12D-DD701FA6CA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F20255-C786-479F-8892-3C86B1E5D5CF}
+	EndGlobalSection
+EndGlobal
